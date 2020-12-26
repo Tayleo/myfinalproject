@@ -13,9 +13,9 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.myfinalproject.ui.dashboard.DashboardFragment"
+        android:name="com.example.myfinalproject.ui.dashboard.GameFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_game" />
 
     <fragment
         android:id="@+id/navigation_notifications"
