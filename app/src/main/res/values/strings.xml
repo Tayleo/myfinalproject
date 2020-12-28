@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">myfinalproject</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Weather</string>
+    <string name="title_dashboard">CardGame</string>
+    <string name="title_notifications">Music</string>
     <string name="title_watch">Watch</string>
     <string name="timer">00:00:00</string>
     <string name="start">start</string>
